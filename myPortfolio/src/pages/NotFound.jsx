@@ -1,9 +1,10 @@
 import React from 'react'
+import StarBackground from '../Components/StarBackground'
 
 const NotFound = () => {
   return (
     <div>
-      Not Found!
+      HEllo
     </div>
   )
 }
